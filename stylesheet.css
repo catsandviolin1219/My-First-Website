@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(251, 255, 0);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border-width: 40 px;
+    border-style: solid;
+    border-color: rgb(4, 4, 230);
+}
+
+#header
+{
+    background-color: rgb(0, 0, 0);
+    border-width: 27 px;
+    border-style: solid;
+    border-color: rgba(255, 0, 0, 150);
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 255, 255);
+    color: rgb(0, 200, 0);
+}
+
+#footer
+{
+    background-color: rgb(0, 0, 0);
+    border-width: 25 px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    text-decoration: underline;
+    text-decoration-color: rgb(150, 0, 0);
+    color: rgb(0, 0, 255);
+}
+
+#list
+{
+    border-width: 250 px;
+    border-style: dashed;
+    border-color: rgb(150, 150, 255)
+}
